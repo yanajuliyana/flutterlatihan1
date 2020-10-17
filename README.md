@@ -1,5 +1,10 @@
 # latihan_flutter1
 
+Nama : Yana Juliyana
+NPM : 18111384
+Kelas : TIF RM 18CIDA
+
+
 A new Flutter project.
 
 ## Getting Started
